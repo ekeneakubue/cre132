@@ -1,0 +1,27 @@
+.hardware{
+    margin: 3rem 1rem;
+}
+.hardware-card{
+    width: 18rem;
+    border-radius: 10px;
+}
+.mycard-list{
+    padding: 1rem 4rem;
+    font-size: 20px;
+}
+.mycard-list .myicon{    
+    font-weight: 900;
+}
+.mycard-list h3{
+    color: darkgreen;
+    font-family: 'Satisfy', cursive;
+}
+.card-image{
+    display: flex;
+    justify-content: center;
+}
+.mycard-list img{
+    width: 500px;
+    border-radius: 20px;
+    margin: 1rem 1rem;
+}

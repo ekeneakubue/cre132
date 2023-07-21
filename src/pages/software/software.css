@@ -1,0 +1,14 @@
+.software{
+    margin: 5rem 0rem;
+    text-align: center;
+}
+.software .row{
+    margin-top: 1rem;
+}
+.soft-card{
+    border: 1px solid rgb(186, 183, 183);
+    margin-top: 1rem;
+}
+.software-icon{
+    font-size: 100px;
+}

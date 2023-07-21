@@ -1,0 +1,29 @@
+/* Start Navbar */
+.mynavbar{
+    background-color: rgb(4, 68, 4);
+    padding: 1rem 3rem;
+    text-align: end;
+    font-size: larger;
+}
+.mynav{
+    margin-right: 2rem;
+}
+.mylogo{
+    width: 40px;
+    margin-right: 0.5rem;
+}
+/* End Navbar */
+
+
+
+/* Start Media Query */
+@media screen and (max-width: 768px) { 
+    .mysearch{
+        display: flex;  
+        justify-content: end;      
+    }
+    .mysearch button{
+        margin-left: 0.5rem;
+    }
+}
+/* End Media Query */
